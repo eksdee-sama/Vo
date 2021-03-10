@@ -9,7 +9,6 @@ import wolframalpha,playsound
 import time
 
 
-
 class voice:
     engine = pyttsx3.init()
     voices = engine.getProperty('voices')
