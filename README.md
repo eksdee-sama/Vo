@@ -1,3 +1,3 @@
 # Voice Assistant
-Smart Virtual Assistant that can do variouys tasks you can ask for.
+Smart Virtual Assistant that can do various tasks you can ask for.
 It has following Commands:
